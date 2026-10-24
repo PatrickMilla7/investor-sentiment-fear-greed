@@ -18,7 +18,7 @@ Yahoo Finance, Alternative.me API, Google Trends, AAII Sentiment Survey, CNN Bus
 3. Feature engineering (RSI, Bollinger bands, drawdowns, VIX, volatility)
 4. Modelling (Linear Regression, Random Forest, XGBoost)
 5. Transfer learning to S&P 500 and gold
-6. Backtesting vs DCA and Buy & Hold
+6. Backtesting the strategy vs DCA and Buy & Hold
 
 ## Limitations
 Part of the backtesting period overlaps with the training data, no transaction

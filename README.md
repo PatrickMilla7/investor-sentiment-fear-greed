@@ -10,7 +10,7 @@ beats passive strategies like Dollar Cost Averaging (DCA).
 - Sentiment-based strategies beat DCA in backtests (e.g. S&P 500: +152% vs +79%, 2018-2025)
 
 ## Data sources
-Yahoo Finance, Alternative.me API, Google Trends, AAII Sentiment Survey
+Yahoo Finance, Alternative.me API, Google Trends, AAII Sentiment Survey, CNN Business
 
 ## Methodology
 1. Data collection and cleaning

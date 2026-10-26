@@ -1,0 +1,12 @@
+pandas 
+numpy 
+yfinance 
+pandas-datareader 
+requests 
+matplotlib 
+seaborn
+ plotly 
+kaleido==0.2.1 
+scikit-learn 
+xgboost 
+xlrd

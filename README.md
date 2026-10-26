@@ -12,8 +12,6 @@ beats passive strategies like Dollar Cost Averaging (DCA).
 ## Data sources
 Yahoo Finance, Alternative.me API, Google Trends, AAII Sentiment Survey, CNN Business
 
-## Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PatrickMilla7/investor-sentiment-fear-greed/blob/main/notebooks/fear-greed-analysis.ipynb)
 ## Methodology
 1. Data collection and cleaning
 2. Exploratory data analysis

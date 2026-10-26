@@ -28,4 +28,4 @@ costs are included, and no risk-adjusted metrics (e.g. Sharpe ratio) were comput
 Python, pandas, scikit-learn, MatplotLib, XGBoost, Plotly
 
 ## Author
-Patrick Milla López | [LinkedIn](your-linkedin-link) | patrickmilla7@gmail.com
+Patrick Milla López | [LinkedIn](https://www.linkedin.com/in/patrick-milla-lopez-49302a2a1/) | patrickmilla7@gmail.com

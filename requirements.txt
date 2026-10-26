@@ -5,7 +5,7 @@ pandas-datareader
 requests 
 matplotlib 
 seaborn
- plotly 
+plotly 
 kaleido==0.2.1 
 scikit-learn 
 xgboost 
